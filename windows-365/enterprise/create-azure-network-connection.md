@@ -85,7 +85,7 @@ When planning your ANC VNets with ExpressRoute as the on-premises connectivity m
 
     Cloud PCs that use the defined ANC are joined to the domain and OU specified. Make sure that the domain selected is the desired domain for the computers to join
 
-8. Select **Next**.
+8. Select the **Next** button.
 9. On the **Review + Create** page, select **Create**.
 
 <!-- ########################## -->
